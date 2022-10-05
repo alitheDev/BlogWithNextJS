@@ -1,3 +1,9 @@
+## V 0.1 (Output)
+
+![image](https://user-images.githubusercontent.com/48137657/194044546-f8f2c8c7-27e8-443e-a19f-5e24080801b6.png)
+
+
+
 # Why NextJS for Blog Project
 
 ## Why NextJS?
